@@ -2,9 +2,6 @@
     "application_name": "autotuner",
     "optimization_objectives": ["Value"],
     "optimization_iterations": 100,
-    "feasible_output": {
-        "enable_feasible_predictor": true
-    },
     "input_parameters" : {
         "OPT_LEVEL": {
             "parameter_type" : "ordinal",
