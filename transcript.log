@@ -1,0 +1,845 @@
+/tmp/86d09c44-7455-11ed-a070-6f1017a5db9b
+Design of experiment phase, number of new doe samples = 10 .......
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+0,clang,630,6.834652900695801,true,6908
+2,clang,128,0.8569309711456299,false,7857
+2,clang,310,1.0739824771881104,false,9041
+1,clang,1114,1.8609495162963867,false,10983
+2,clang,1129,1.9565377235412598,false,13033
+1,clang,1082,1.844289779663086,false,14958
+2,clang,1161,1.9482648372650146,false,17008
+3,clang,896,0.8101227283477783,false,17916
+1,gcc,904,0.8998270034790039,false,18865
+2,clang,749,0.39275455474853516,false,19344
+
+
+End of doe/resume phase, the number of evaluated configurations is: 10
+
+Starting optimization iteration 1
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+0,gcc,685,1.2332301139831543,false,21368
+
+Starting optimization iteration 2
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+3,gcc,859,0.4180290699005127,false,21881
+
+Starting optimization iteration 3
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+0,gcc,637,1.0462958812713623,false,23912
+
+Starting optimization iteration 4
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+0,clang,633,1.1122686862945557,false,25879
+
+Starting optimization iteration 5
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+0,clang,631,0.8501482009887695,false,27502
+
+Starting optimization iteration 6
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+0,clang,486,2.7780632972717285,false,31087
+
+Starting optimization iteration 7
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+0,clang,575,4.831298112869263,false,36905
+
+Starting optimization iteration 8
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+0,gcc,604,7.0439159870147705,false,44697
+
+Starting optimization iteration 9
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+3,gcc,628,0.8811984062194824,false,46539
+
+Starting optimization iteration 10
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+3,gcc,630,1.1028785705566406,true,48539
+
+Starting optimization iteration 11
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+3,clang,630,1.6895735263824463,true,51053
+
+Starting optimization iteration 12
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+0,gcc,630,8.730828046798706,true,60636
+
+Starting optimization iteration 13
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+1,gcc,630,1.8305790424346924,true,63310
+
+Starting optimization iteration 14
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+0,clang,742,1.5088825225830078,false,64919
+
+Starting optimization iteration 15
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+0,gcc,631,1.1542119979858398,false,66933
+
+Starting optimization iteration 16
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+2,gcc,630,1.8400602340698242,true,69555
+
+Starting optimization iteration 17
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+1,clang,630,1.8906385898590088,true,72394
+
+Starting optimization iteration 18
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+2,gcc,603,1.4937520027160645,false,74723
+
+Starting optimization iteration 19
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+2,clang,623,1.5831670761108398,false,77347
+
+Starting optimization iteration 20
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+2,clang,630,1.694258213043213,true,79965
+
+Starting optimization iteration 21
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+3,gcc,635,0.13207602500915527,false,80980
+
+Starting optimization iteration 22
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+3,gcc,631,0.12481117248535156,false,81907
+
+Starting optimization iteration 23
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+2,gcc,631,0.2226862907409668,false,82955
+
+Starting optimization iteration 24
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+3,gcc,632,0.12367630004882812,false,83884
+
+Starting optimization iteration 25
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+2,clang,686,0.26201891899108887,false,85083
+
+Starting optimization iteration 26
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+2,gcc,629,1.8213565349578857,false,87717
+
+Starting optimization iteration 27
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+1,gcc,604,1.5894603729248047,false,90290
+
+Starting optimization iteration 28
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+0,clang,627,6.957305431365967,false,98310
+
+Starting optimization iteration 29
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+3,clang,627,1.5286340713500977,false,100925
+
+Starting optimization iteration 30
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+2,clang,626,1.5266335010528564,false,103291
+
+Starting optimization iteration 31
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+2,clang,631,0.2203371524810791,false,104380
+
+Starting optimization iteration 32
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+0,clang,629,7.142918348312378,false,112418
+
+Starting optimization iteration 33
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+3,gcc,629,1.042870044708252,false,114527
+
+Starting optimization iteration 34
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+3,clang,380,0.8717098236083984,false,116455
+
+Starting optimization iteration 35
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+2,clang,763,0.4218015670776367,false,117746
+
+Starting optimization iteration 36
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+3,clang,851,0.5986354351043701,false,118471
+
+Starting optimization iteration 37
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+2,gcc,414,1.3983500003814697,false,119981
+
+Starting optimization iteration 38
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+0,gcc,620,7.33775520324707,false,128200
+
+Starting optimization iteration 39
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+3,gcc,623,1.1515171527862549,false,129491
+
+Starting optimization iteration 40
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+3,gcc,1056,1.1625089645385742,false,131522
+
+Starting optimization iteration 41
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+3,clang,679,0.2847743034362793,false,131941
+
+Starting optimization iteration 42
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+3,clang,629,1.5992274284362793,false,134456
+
+Starting optimization iteration 43
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+3,clang,632,0.22961640357971191,false,135640
+
+Starting optimization iteration 44
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+1,gcc,631,0.2357039451599121,false,136837
+
+Starting optimization iteration 45
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+0,gcc,626,7.7183380126953125,false,145430
+
+Starting optimization iteration 46
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+0,gcc,31,5.940412998199463,false,152210
+
+Starting optimization iteration 47
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+1,gcc,6,2.0566344261169434,true,155094
+
+Starting optimization iteration 48
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+0,clang,7,6.304731607437134,true,162442
+
+Starting optimization iteration 49
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+1,clang,2,3.259958028793335,true,166585
+
+Starting optimization iteration 50
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+2,clang,8,0.9757022857666016,false,168464
+
+Starting optimization iteration 51
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+2,clang,7,1.4157893657684326,true,170935
+
+Starting optimization iteration 52
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+2,clang,6,1.6373987197875977,true,173510
+
+Starting optimization iteration 53
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+1,clang,631,0.22446370124816895,false,174648
+
+Starting optimization iteration 54
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+1,clang,14,1.3121140003204346,true,176814
+
+Starting optimization iteration 55
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+1,clang,33,1.2909629344940186,false,179106
+
+Starting optimization iteration 56
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+1,clang,627,1.8368210792541504,false,181792
+
+Starting optimization iteration 57
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+3,gcc,3,1.4940474033355713,true,184145
+
+Starting optimization iteration 58
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+2,clang,629,1.566295862197876,false,186593
+
+Starting optimization iteration 59
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+3,clang,7,1.0670831203460693,true,188541
+
+Starting optimization iteration 60
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+3,clang,6,1.1772866249084473,true,190684
+
+Starting optimization iteration 61
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+3,clang,3,1.5372159481048584,true,193128
+
+Starting optimization iteration 62
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+3,gcc,7,1.076655387878418,true,195065
+
+Starting optimization iteration 63
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+3,gcc,14,0.6588394641876221,true,196651
+
+Starting optimization iteration 64
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+3,clang,631,0.2029433250427246,false,197737
+
+Starting optimization iteration 65
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+3,clang,1,6.040648698806763,true,204587
+
+Starting optimization iteration 66
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+3,clang,1053,1.4178106784820557,false,206139
+
+Starting optimization iteration 67
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+3,gcc,22,0.8386449813842773,false,207873
+
+Starting optimization iteration 68
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+3,gcc,2,2.2353055477142334,true,211099
+
+Starting optimization iteration 69
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+1,gcc,1,6.465013742446899,true,218654
+
+Starting optimization iteration 70
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+1,gcc,3,2.4947938919067383,true,222128
+
+Starting optimization iteration 71
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+1,gcc,2,3.014545440673828,true,226213
+
+Starting optimization iteration 72
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+3,clang,2,2.5564465522766113,true,229680
+
+Starting optimization iteration 73
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+1,gcc,634,0.2363882064819336,false,230724
+
+Starting optimization iteration 74
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+0,clang,12,6.1723291873931885,true,237995
+
+Starting optimization iteration 75
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+0,clang,16,5.53216814994812,false,244509
+
+Starting optimization iteration 76
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+3,gcc,6,1.1153666973114014,true,246774
+
+Starting optimization iteration 77
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+1,clang,7,1.6235690116882324,true,249291
+
+Starting optimization iteration 78
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+3,gcc,24,0.7226014137268066,false,250905
+
+Starting optimization iteration 79
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+2,gcc,1,5.917587518692017,true,257777
+
+Starting optimization iteration 80
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+1,clang,6,1.7312099933624268,true,260456
+
+Starting optimization iteration 81
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+2,gcc,11,1.571568250656128,false,262898
+
+Starting optimization iteration 82
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+2,gcc,5,1.9846351146697998,true,265984
+
+Starting optimization iteration 83
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+2,gcc,779,0.5038459300994873,false,266621
+
+Starting optimization iteration 84
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+2,gcc,3,2.4964730739593506,true,269929
+
+Starting optimization iteration 85
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+2,clang,2,2.3309645652770996,true,273096
+
+Starting optimization iteration 86
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+1,gcc,624,1.870408535003662,false,275892
+
+Starting optimization iteration 87
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+1,clang,4,2.134176015853882,true,279105
+
+Starting optimization iteration 88
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+3,gcc,30,0.7825069427490234,true,280899
+
+Starting optimization iteration 89
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+2,gcc,2,2.99753999710083,true,284834
+
+Starting optimization iteration 90
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+2,clang,1,6.035769701004028,true,291893
+
+Starting optimization iteration 91
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+0,gcc,14,6.6223320960998535,true,299400
+
+Starting optimization iteration 92
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+2,gcc,655,0.38761258125305176,false,299915
+
+Starting optimization iteration 93
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+3,gcc,1,4.098745584487915,true,305024
+
+Starting optimization iteration 94
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+1,clang,629,1.8666908740997314,false,307964
+
+Starting optimization iteration 95
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+2,gcc,626,1.9399032592773438,false,310817
+
+Starting optimization iteration 96
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+3,clang,4,1.3761448860168457,true,313265
+
+Starting optimization iteration 97
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+3,gcc,5,1.8985850811004639,true,316207
+
+Starting optimization iteration 98
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+0,clang,215,3.3036413192749023,false,320472
+
+Starting optimization iteration 99
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+3,clang,14,0.9619641304016113,true,322374
+
+Starting optimization iteration 100
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Valid,Timestamp
+1,clang,632,0.23621392250061035,false,323558
+
+End of Bayesian Optimization
+Best point found:
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value
+3,0,14,0.6588394641876221
+
+End of HyperMapper
+Design of experiment phase, number of new doe samples = 10 .......
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+0,clang,630,6.739423513412476,6820
+1,gcc,45,1.5186913013458252,8394
+2,clang,36,1.0526282787322998,9561
+3,gcc,126,0.8968520164489746,10541
+2,clang,180,1.0944278240203857,11727
+3,gcc,3,1.7441599369049072,13573
+1,clang,3,2.5699825286865234,16232
+0,clang,180,5.137236833572388,21437
+1,gcc,70,1.4422731399536133,22940
+3,clang,90,0.9459607601165771,23981
+
+
+End of doe/resume phase, the number of evaluated configurations is: 10
+
+Starting optimization iteration 1
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+2,clang,210,1.0756621360778809,25428
+
+Starting optimization iteration 2
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+3,clang,315,1.0938258171081543,26899
+
+Starting optimization iteration 3
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+3,clang,420,1.1318128108978271,28344
+
+Starting optimization iteration 4
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+3,clang,180,1.0632076263427734,29737
+
+Starting optimization iteration 5
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+3,clang,140,1.222780704498291,31322
+
+Starting optimization iteration 6
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+2,gcc,630,1.7077300548553467,33286
+
+Starting optimization iteration 7
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+2,clang,630,1.5439362525939941,35136
+
+Starting optimization iteration 8
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+3,gcc,1260,2.9510657787323,38414
+
+Starting optimization iteration 9
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+1,clang,9,1.3971738815307617,39917
+
+Starting optimization iteration 10
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+3,gcc,630,1.0282180309295654,41265
+
+Starting optimization iteration 11
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+3,clang,630,1.393002986907959,42979
+
+Starting optimization iteration 12
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+1,clang,630,1.7384865283966064,45014
+
+Starting optimization iteration 13
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+1,clang,1260,3.5054821968078613,48865
+
+Starting optimization iteration 14
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+1,gcc,180,1.361954927444458,50478
+
+Starting optimization iteration 15
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+3,gcc,6,1.1470599174499512,51979
+
+Starting optimization iteration 16
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+0,gcc,630,7.726884365081787,59975
+
+Starting optimization iteration 17
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+3,clang,7,1.065030574798584,61403
+
+Starting optimization iteration 18
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+1,gcc,630,1.7701878547668457,63445
+
+Starting optimization iteration 19
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+3,gcc,5,1.7842180728912354,65526
+
+Starting optimization iteration 20
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+3,gcc,30,0.8147783279418945,66442
+
+Starting optimization iteration 21
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+3,clang,6,1.1545050144195557,67884
+
+Starting optimization iteration 22
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+1,clang,21,1.2087452411651611,69366
+
+Starting optimization iteration 23
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+1,clang,180,1.3416733741760254,70983
+
+Starting optimization iteration 24
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+3,clang,5,1.2721476554870605,72699
+
+Starting optimization iteration 25
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+3,gcc,315,0.9777481555938721,73961
+
+Starting optimization iteration 26
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+0,gcc,3,9.436635494232178,83608
+
+Starting optimization iteration 27
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+2,clang,1,5.811175107955933,89801
+
+Starting optimization iteration 28
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+3,clang,3,1.5491666793823242,91777
+
+Starting optimization iteration 29
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+1,gcc,3,2.5321691036224365,94620
+
+Starting optimization iteration 30
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+2,clang,9,1.2830214500427246,96312
+
+Starting optimization iteration 31
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+2,clang,315,1.1125695705413818,97572
+
+Starting optimization iteration 32
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+2,gcc,3,2.4285829067230225,100342
+
+Starting optimization iteration 33
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+0,gcc,5,7.54465651512146,108062
+
+Starting optimization iteration 34
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+2,gcc,5,1.9762678146362305,110489
+
+Starting optimization iteration 35
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+3,gcc,4,1.934044599533081,112803
+
+Starting optimization iteration 36
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+3,clang,2,2.467125177383423,115677
+
+Starting optimization iteration 37
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+0,gcc,60,6.5070531368255615,122289
+
+Starting optimization iteration 38
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+2,clang,4,1.2018818855285645,123871
+
+Starting optimization iteration 39
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+3,gcc,60,0.7309491634368896,124838
+
+Starting optimization iteration 40
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+2,clang,3,2.1145248413085938,127352
+
+Starting optimization iteration 41
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+3,gcc,2,2.370020627975464,130090
+
+Starting optimization iteration 42
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+3,gcc,1,4.505424976348877,134971
+
+Starting optimization iteration 43
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+2,clang,90,1.107133388519287,136245
+
+Starting optimization iteration 44
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+3,gcc,63,0.893829345703125,137539
+
+Starting optimization iteration 45
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+3,gcc,18,0.838221549987793,138678
+
+Starting optimization iteration 46
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+2,gcc,60,0.7774577140808105,139778
+
+Starting optimization iteration 47
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+2,gcc,42,1.7742512226104736,141924
+
+Starting optimization iteration 48
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+1,gcc,4,2.1353912353515625,144163
+
+Starting optimization iteration 49
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+2,gcc,63,1.461646556854248,145922
+
+Starting optimization iteration 50
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+2,gcc,1260,2.750453472137451,148953
+
+Starting optimization iteration 51
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+2,clang,2,2.6735706329345703,152178
+
+Starting optimization iteration 52
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+2,clang,5,1.4781856536865234,154042
+
+Starting optimization iteration 53
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+3,gcc,42,0.8398027420043945,155184
+
+Starting optimization iteration 54
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+1,gcc,5,2.04866623878479,157539
+
+Starting optimization iteration 55
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+3,gcc,45,0.85715651512146,158733
+
+Starting optimization iteration 56
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+3,gcc,36,0.7632417678833008,159847
+
+Starting optimization iteration 57
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+1,clang,70,1.4442145824432373,161518
+
+Starting optimization iteration 58
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+3,gcc,420,0.895573616027832,162834
+
+Starting optimization iteration 59
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+2,gcc,70,1.4772233963012695,164682
+
+Starting optimization iteration 60
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+3,clang,1260,2.7744228839874268,167816
+
+Starting optimization iteration 61
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+3,gcc,15,0.7733786106109619,169118
+
+Starting optimization iteration 62
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+3,clang,1,6.08807897567749,175555
+
+Starting optimization iteration 63
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+1,gcc,60,1.5651051998138428,177495
+
+Starting optimization iteration 64
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+0,clang,3,8.800454378128052,186708
+
+Starting optimization iteration 65
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+2,gcc,45,1.579883098602295,188704
+
+Starting optimization iteration 66
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+3,gcc,14,0.7309598922729492,189942
+
+Starting optimization iteration 67
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+1,clang,2,3.213078260421753,193292
+
+Starting optimization iteration 68
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+3,gcc,10,0.9068117141723633,194600
+
+Starting optimization iteration 69
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+1,clang,4,2.183903694152832,197135
+
+Starting optimization iteration 70
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+1,clang,6,1.76666259765625,199261
+
+Starting optimization iteration 71
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+0,clang,4,7.602924823760986,207154
+
+Starting optimization iteration 72
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+3,clang,4,1.3555958271026611,208802
+
+Starting optimization iteration 73
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+1,gcc,14,1.4731309413909912,210551
+
+Starting optimization iteration 74
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+0,gcc,9,6.678022384643555,217564
+
+Starting optimization iteration 75
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+3,gcc,12,0.6624784469604492,218573
+
+Starting optimization iteration 76
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+2,gcc,1,6.517453193664551,225445
+
+Starting optimization iteration 77
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+2,gcc,2,3.0551328659057617,228866
+
+Starting optimization iteration 78
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+2,clang,1260,2.7106122970581055,231898
+
+Starting optimization iteration 79
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+3,gcc,9,0.9155240058898926,233218
+
+Starting optimization iteration 80
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+1,gcc,9,1.6245074272155762,235151
+
+Starting optimization iteration 81
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+1,gcc,1,6.2991554737091064,241789
+
+Starting optimization iteration 82
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+2,clang,45,1.0377769470214844,243270
+
+Starting optimization iteration 83
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+2,gcc,84,0.808584451675415,244561
+
+Starting optimization iteration 84
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+1,gcc,2,3.4222488403320312,248308
+
+Starting optimization iteration 85
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+2,gcc,90,1.434730052947998,250092
+
+Starting optimization iteration 86
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+2,gcc,12,0.8830392360687256,251409
+
+Starting optimization iteration 87
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+2,gcc,7,1.655346393585205,253387
+
+Starting optimization iteration 88
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+2,gcc,15,1.6907575130462646,255448
+
+Starting optimization iteration 89
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+0,clang,42,5.71567964553833,261312
+
+Starting optimization iteration 90
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+3,clang,42,0.9627780914306641,262680
+
+Starting optimization iteration 91
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+2,gcc,9,1.5926766395568848,264673
+
+Starting optimization iteration 92
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+2,gcc,10,1.3744456768035889,266385
+
+Starting optimization iteration 93
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+2,gcc,105,1.4027397632598877,268121
+
+Starting optimization iteration 94
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+2,gcc,126,1.4148304462432861,269861
+
+Starting optimization iteration 95
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+0,clang,7,6.178686857223511,276311
+
+Starting optimization iteration 96
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+3,gcc,7,1.0154168605804443,277731
+
+Starting optimization iteration 97
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+0,gcc,35,5.879830360412598,283698
+
+Starting optimization iteration 98
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+2,gcc,180,0.8326106071472168,284863
+
+Starting optimization iteration 99
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+2,clang,42,0.8903534412384033,286081
+
+Starting optimization iteration 100
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value,Timestamp
+2,gcc,252,0.9035110473632812,287268
+
+End of Bayesian Optimization
+Best point found:
+OPT_LEVEL,COMPILER,BLOCK_SIZE,Value
+3,0,12,0.6624784469604492
+
+End of HyperMapper
