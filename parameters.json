@@ -1,0 +1,25 @@
+{
+    "application_name": "autotuner",
+    "optimization_objectives": ["Value"],
+    "optimization_iterations": 100,
+    "feasible_output": {
+        "enable_feasible_predictor": true
+    },
+    "input_parameters" : {
+        "OPT_LEVEL": {
+            "parameter_type" : "ordinal",
+            "values" : [0, 1, 2, 3],
+            "parameter_default" : 0
+        },
+        "COMPILER": {
+            "parameter_type" : "categorical",
+            "values" : ["gcc", "clang"],
+            "parameter_default" : "clang"
+        },
+        "BLOCK_SIZE": {
+            "parameter_type" : "integer",
+            "values" : [1, 1260],
+            "parameter_default" : 630
+        }
+    }
+}
